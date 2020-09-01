@@ -2,6 +2,7 @@ import 'package:cursoverao/services/auth.dart';
 import 'package:flutter/material.dart';
 
 class SignIn extends StatefulWidget {
+  static String routeName = "/login";
   @override
   _SignInState createState() => _SignInState();
 }

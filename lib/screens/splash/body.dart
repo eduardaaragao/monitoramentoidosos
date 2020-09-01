@@ -69,7 +69,7 @@ class _BodyState extends State<Body> {
                     ),
                     DefaultButton(
                       text: "Continue",
-                      press: null,
+                      press: () => SignIn.routeName,
                     ),
                     Spacer(),
                   ],
