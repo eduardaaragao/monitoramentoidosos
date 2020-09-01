@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226155905345",
+    "firebase_url": "https://cursoverao-e3e90.firebaseio.com",
+    "project_id": "cursoverao-e3e90",
+    "storage_bucket": "cursoverao-e3e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226155905345:android:719e4079a267773f82a1c0",
+        "android_client_info": {
+          "package_name": "com.example.cursoverao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226155905345-12jbscel90bhopkoh5vsh1kecme7ui8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Jw8NYrhx3e9Hr3XnyDnhnSOcR7k-zXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226155905345-12jbscel90bhopkoh5vsh1kecme7ui8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
